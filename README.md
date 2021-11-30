@@ -1,4 +1,6 @@
 # World-Demographic-Indicators
+Using this database we can describe interesting dependencies and trends occurring in the world, you can also characterize each country and describe its situation
+
 **How to install**
 First of all we need to download and install Anaconda from: https://www.anaconda.com/products/individual
 Then open repository from Anaconda
